@@ -1,0 +1,20 @@
+{
+    "Author": "Rob Sewell",
+    "ContentSize": 8337,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/setsqlfirewallrules-runbook/master/workflow%20Set-SQLFirewallRules.ps1",
+    "DownloadCount": 1013,
+    "Id": "Set-SQLFirewallRules-e7740110",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 579,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-1-6T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook sets up a connection to an Azure virtual machine.It requires the Connect-AzureVM to be published before runningIt will then configure the Virtual Machines Firewall to allow SQL Traffic using the choices defined in the parameters.The All parameter will always over",
+    "Title": "Set-SQLFirewallRules Runbook",
+    "UpdatedDate": "2015-1-6T00:00:00",
+    "Url": "https://github.com/azureautomation/setsqlfirewallrules-runbook",
+    "UserTags": "Microsoft Azure, Automation, Utility"
+}
